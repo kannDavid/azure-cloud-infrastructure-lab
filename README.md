@@ -25,8 +25,9 @@ The goal of this project was not only to deploy Azure resources, but to understa
 ## Architecture
 
 The environment uses the VNet `VN-Lab` with the address space:
-![Azure Cloud Infrastructure Lab Architecture](AzureCloud-diagram.png)
 `10.10.0.0/16`
+
+![Azure Cloud Infrastructure Lab Architecture](AzureCloud-diagram.png)
 
 It is segmented into six subnets:
 
